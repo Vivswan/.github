@@ -1,7 +1,7 @@
 # Copilot runs this job (it MUST be named copilot-setup-steps) to prepare
 # its environment; the push/PR triggers exist so edits to this file are
 # validated in CI. Generated once by Vivswan/repo-platform,
-# never overwritten by template sync.
+# never overwritten by the sync.
 
 name: Copilot Setup Steps
 
