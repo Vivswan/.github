@@ -2,7 +2,7 @@
 
 Thanks for contributing! This document covers the conventions every change in this repository goes through. Toolchain-specific instructions (setup, build, and test commands) live in the repository's own `AGENTS.md` or README.
 
-CI, settings, and standards files in Vivswan's repositories are managed by [Vivswan/repo-platform](https://github.com/vivswan/repo-platform); local edits to managed files are replaced on the next template sync.
+CI, settings, and standards files in Vivswan's repositories are managed by [Vivswan/repo-platform](https://github.com/vivswan/repo-platform); local edits to managed files are replaced on the next repo-platform sync.
 
 ## Pull requests
 
