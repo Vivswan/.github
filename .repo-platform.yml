@@ -1,0 +1,8 @@
+# repo-platform registration: the fleet's defaults repository is a managed member with no
+# module selected beyond keeping its own (absent) license, so the sync writes the skeleton
+# CI, the starters, and the settings file, and the settings apply covers it.
+modules: [custom-license]
+project:
+  name: .github
+  slug: github
+  description: Default community health files for Vivswan's repositories
