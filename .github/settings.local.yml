@@ -12,7 +12,6 @@ repository:
   description: "Default community health files for Vivswan's repositories"
   # Declared even when empty: the apply manages only declared keys, so
   # this keeps it healing out-of-band edits.
-  homepage: ""
   topics: ""
   private: false
 
