@@ -12,7 +12,7 @@ repository:
   description: "Default community health files for Vivswan's repositories"
   # Declared even when empty: the apply manages only declared keys, so
   # this keeps it healing out-of-band edits.
-  topics: ""
+  topics: []
   private: false
 
 # This repository's own labels (the fleet layers already carry the
